@@ -12,6 +12,7 @@ namespace Practice_Git
         protected void Page_Load(object sender, EventArgs e)
         {
             Console.WriteLine();
+            Console.WriteLine();
 
         }
     }
